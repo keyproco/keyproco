@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as a DevOps engineer, hands on several GCP services and orchestrating some Kubernetes clusters.
 - 🌱 I’m currently learning GCP Cloud, DevOps tools, improving my algorithm skill with code.
-- 🤔 Should i learn Data engineering?
 - 📫 How to reach me: psst, on the left side!, you will find my email ;)
 <!--
 **Keyproco/keyproco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
