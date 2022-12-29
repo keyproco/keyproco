@@ -1,4 +1,4 @@
-
+[![An image of @k3ypr0c0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/k3ypr0c0)](https://holopin.io/@k3ypr0c0)
 ### Hi there 👋
 
 - 🔭 I’m currently working as a DevOps engineer, hands on several GCP services and orchestrating some Kubernetes clusters.
@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @k3ypr0c0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/k3ypr0c0)](https://holopin.io/@k3ypr0c0)
 <a href="https://app.daily.dev/Keyproco"><img src="https://api.daily.dev/devcards/7635d6cd060d42b19b7d047bd2c3bdc7.png?r=a9o" width="400" alt="Abdenour Keddar's Dev Card"/></a>
