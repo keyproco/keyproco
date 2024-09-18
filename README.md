@@ -1,10 +1,11 @@
 [![An image of @k3ypr0c0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/k3ypr0c0)](https://holopin.io/@k3ypr0c0)
 ### Hi there 👋
 
-- 🌱 I’m currently learning GCP Cloud, DevOps tools, improving my algorithm skill with code.
+- 🌱 I’m currently learning Azure Cloud, DevOps tools, improving my algorithm skill with code.
 - [Datacamp Profile](https://app.datacamp.com/profile/keyproco)
-- [Microsoft Profile](https://learn.microsoft.com/en-us/users/keyproco/)
-- 📫 How to reach me: psst, on the left side!, you will find my email ;)
+- [Microsoft Profile](https://learn.microsoft.com/en-gb/users/abdr-kdr/)
+- [Archived Microsoft Profile](https://learn.microsoft.com/en-us/users/keyproco/)
+
 <!--
 **Keyproco/keyproco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
