@@ -2,8 +2,8 @@
 
 ### 🚀 About Me
 Developer & DevOps | Cloud Native Enthusiast
-<h2 align="center">🛠️ Tech Stack</h2>
 
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" />
@@ -13,6 +13,8 @@ Developer & DevOps | Cloud Native Enthusiast
   <img src="https://skillicons.dev/icons?i=ansible" height="45" alt="Ansible" />
   <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="Google Cloud" />
 </p>
+
+<h2 align="center">🛠️ Currently Listening To </h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d766i4zu6jg5qjqgrq6y4mk6qm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify GitHub Profile">
