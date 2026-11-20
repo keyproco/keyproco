@@ -14,12 +14,6 @@ Developer & DevOps | Cloud Native Enthusiast
   <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="Google Cloud" />
 </p>
 
-<h2 align="center">🛠️ Currently Listening To </h2>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d766i4zu6jg5qjqgrq6y4mk6qm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify GitHub Profile">
-  </a>
-</p>
 <!--
 **keyproco/keyproco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
